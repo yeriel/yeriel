@@ -6,7 +6,7 @@
 
 <p align="center">
         <samp>
-            「 UTFSM student and data scientist with experience in building machine learning based applications. Specialized in Python and SQL.  」
+            「 Machine learning engineer and data scientist with experience in building machine learning based applications. Specialized in Python and SQL.  」
         </samp>
 </p>
 
