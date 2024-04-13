@@ -6,7 +6,7 @@
 
 <p align="center">
         <samp>
-            「 Machine learning engineer and data scientist with experience in building artificial intelligence based applications. Specialized in Python, Machine Learning and Deep Learning.  」
+            「 Data scientist with experience in building artificial intelligence based applications. Specialized in Python, Machine Learning and Deep Learning.  」
         </samp>
 </p>
 
